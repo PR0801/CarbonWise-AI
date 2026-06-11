@@ -179,8 +179,6 @@ export function CarbonWiseDashboard() {
               <Badge className="border-teal-300/25 bg-teal-300/10 text-teal-100">
                 SDG 13 - Climate Action
               </Badge>
-              <Badge>LocalStorage persistence</Badge>
-              <Badge>Vercel serverless APIs</Badge>
             </div>
             <h1 className="text-3xl font-semibold tracking-normal text-white sm:text-4xl">
               CarbonWise AI
