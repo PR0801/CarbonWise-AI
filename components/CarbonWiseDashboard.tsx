@@ -284,6 +284,9 @@ export function CarbonWiseDashboard() {
           </div>
         </section>
       </div>
+       <footer className="mt-8 border-t border-white/10 py-4 text-center text-sm text-gray-400">
+        Made by <span className="font-semibold text-white">Pratyush Raunak</span>
+      </footer>
     </main>
   );
 }
